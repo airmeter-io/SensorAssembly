@@ -1,0 +1,138 @@
+{
+  "uuid": "5667f98885d2f86c159887c1d67d5c4f",
+  "path": "Offline/AirMeter.io%20Sensor%20Assembly%20v1.0",
+  "name": "AirMeter.io Sensor Assembly v1.0",
+  "content": "",
+  "created_at": "2022-07-23 23:24:14",
+  "updated_at": "2022-08-27 17:42:53",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "89eb91222f27ef9497e47e2be9be0320",
+      "title": "Schematic",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "a052559478a14ee2b9e3514bee4ff72d": 1,
+        "f5b1d9403e49471cab43bc5a1bec336f": 1,
+        "eaa76950fd7343a1953943ee7b9978d3": 1,
+        "7809ed3ba7c24a14936ce2a66b37ccdb": 1,
+        "65b1ae295679465fabfb76c1fc7cc7e6": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HDR-F-2.54_1x4",
+          1,
+          "HDR-F-2.54_1X4",
+          "BME280",
+          {
+            "BOM_Supplier Part": "C225501",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "21473b495b6340c992965357d5701779",
+            "uuid": "eaa76950fd7343a1953943ee7b9978d3"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x8",
+          1,
+          "HDR-F-2.54_1X8",
+          "BOARDPINS",
+          {
+            "BOM_Supplier Part": "C225505",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "76a028e0363649388f2a2e340a157455",
+            "uuid": "7809ed3ba7c24a14936ce2a66b37ccdb"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x5",
+          1,
+          "HDR-F-2.54_1X5",
+          "I2C-1",
+          {
+            "BOM_Supplier Part": "C50950",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "4bb67b2ac49a4595b3ed10b792fcbebb",
+            "uuid": "65b1ae295679465fabfb76c1fc7cc7e6"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x5",
+          1,
+          "HDR-M-2.54_1X5",
+          "SENSEAIR1",
+          {
+            "BOM_Supplier Part": "C358687",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "108969f8d9834a9ea23bcec2d43a66e4",
+            "uuid": "a052559478a14ee2b9e3514bee4ff72d"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x4",
+          1,
+          "HDR-M-2.54_1X4",
+          "SENSEAIR2",
+          {
+            "BOM_Supplier Part": "C124378",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "282f7786cb6144d097ae00194c3e3fb3",
+            "uuid": "f5b1d9403e49471cab43bc5a1bec336f"
+          }
+        ]
+      ],
+      "updateTime": 1658788309,
+      "createTime": 1658615054,
+      "histories": [],
+      "created_at": "2022-07-23 23:24:14",
+      "updated_at": "2022-07-25 23:31:49"
+    },
+    {
+      "uuid": "f0a0de5b5731cedce7f064398bd1e15c",
+      "puuid": "5667f98885d2f86c159887c1d67d5c4f",
+      "title": "PCB",
+      "filename": "PCB.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "4bb67b2ac49a4595b3ed10b792fcbebb": 1,
+        "76a028e0363649388f2a2e340a157455": 1,
+        "21473b495b6340c992965357d5701779": 1,
+        "108969f8d9834a9ea23bcec2d43a66e4": 1,
+        "282f7786cb6144d097ae00194c3e3fb3": 1
+      },
+      "BOM": [],
+      "updateTime": 1658850778,
+      "createTime": 1658695624,
+      "histories": [],
+      "created_at": "2022-07-24 21:47:04",
+      "updated_at": "2022-07-26 16:52:58"
+    }
+  ],
+  "sort": [],
+  "title": "AirMeter.io Sensor Assembly v1.0",
+  "foldername": "AirMeter.io Sensor Assembly v1.0",
+  "schfilename": "AirMeter.io Sensor Assembly v1.0.json",
+  "schfilemtime": 1661618565555
+}
