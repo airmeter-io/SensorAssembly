@@ -24,9 +24,6 @@ It is advisable to consult someone experienced with designing & ordering PCBs be
 ## JLCPCB Instructions
 
 First start a new PCB quote and upload the Gerber file (The zip file from the GerberFiles folder). The dimensions 30mm x 70mm will be auto detected and a picture of the two sides of the PCB will be displayed. Now make the following changes:-
-<a href="https://github.com/airmeter-io/SensorAssembly/raw/main/Images/JLCPCB.png"><img src="https://github.com/airmeter-io/SensorAssembly/raw/main/Images/JLCPCB.png" style="width: 125px;" /></a>
-
-
 - Change "Delivery Format" to "Panel by JLCPCB".
 - Change "Column" under "Panel Format" to 3
 - Change "Row" under "Panel Format" to 2
@@ -34,7 +31,9 @@ First start a new PCB quote and upload the Gerber file (The zip file from the Ge
 
 The above numbers will provde 6 PCBs per assembly and 5 panels giving a total of 30 boards. You may adjust these within JLCPCBs own limits to suit your needs.
 
+Screenshot from the JLCPCB order process (Click to englarge):-
 
+<a href="https://github.com/airmeter-io/SensorAssembly/raw/main/Images/JLCPCB.png"><img src="https://github.com/airmeter-io/SensorAssembly/raw/main/Images/JLCPCB.png" style="width: 125px;" /></a>
 
 # Supported Sensors
 
