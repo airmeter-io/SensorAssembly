@@ -31,7 +31,8 @@ First start a new PCB quote and upload the Gerber file (The zip file from the Ge
 
 The above numbers will provde 6 PCBs per assembly and 5 panels giving a total of 30 boards. You may adjust these within JLCPCBs own limits to suit your needs.
 
-<img src="https://github.com/airmeter-io/SensorAssembly/raw/main/Images/JLCPCB.png" style="width: 125px; float: right;" />
+See the following screenshot from the JLCPCB order process:-
+<a href="https://github.com/airmeter-io/SensorAssembly/raw/main/Images/JLCPCB.png"><img src="https://github.com/airmeter-io/SensorAssembly/raw/main/Images/JLCPCB.png" style="width: 125px;" /></a>
 
 # Supported Sensors
 
