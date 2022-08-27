@@ -17,9 +17,20 @@ As the PCB is small they must be ordered as "panelised boards". This means print
 
 The test order for this design was done using JLCPCB and 5 panels each containing 6 boards (2 rows of 3) giving a total of 30 Sensor Assemblies. For indicative purposes this order came in at approximately €35 including delivery & VAT to EU.
 
-Any suitably equiped PCB supplier should be able to print & panelise the gerber files within this repository.
+Any suitably equiped PCB supplier should be able to print & panelise the gerber files within this repository. Instructions for individual suppliers will be added as successful orders have been made.
 
 It is advisable to consult someone experienced with designing & ordering PCBs before making an order. 
+
+## JLCPCB Instructions
+
+First start a new PCB quote and upload the Gerber file (The zip file from the GerberFiles folder). The dimensions 30mm x 70mm will be auto detected and a picture of the two sides of the PCB will be displayed. Now make the following changes:-
+- Change "Delivery Format" to "Panel by JLCPCB".
+- Change "Column" under "Panel Format" to 3
+- Change "Row" under "Panel Format" to 2
+- Choose your preferred color.
+
+The above numbers will provde 6 PCBs per assembly and 5 panels giving a total of 30 boards. You may adjust these within JLCPCBs own limits to suit your needs.
+
 
 # Supported Sensors
 
